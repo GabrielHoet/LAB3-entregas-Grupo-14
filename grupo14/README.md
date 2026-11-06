@@ -4,8 +4,9 @@
 
 ## Integrantes
 <!-- Completar en el primer Pull Request -->
-- Apellido, Nombre (@usuario-github)
-- Apellido, Nombre (@usuario-github)
+- Agú, Alejandro Valentín
+- Hoet, Gabriel Alejandro
+- Sosa, Sofía
 
 ## Archivos
 <!-- Qué archivo hace qué -->
